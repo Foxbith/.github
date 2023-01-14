@@ -1,6 +1,7 @@
 # Hello 🙌🏻
 
-![](./cover.png)
+![Cover](https://raw.githubusercontent.com/Foxbith/.github/main/profile/cover.png)
+
 
 Foxbith is an end-to-end digital product production company. We specialize in creating custom solutions for businesses in various industries such as industrial 🏭, logistics 🚕, distribution 🏠, wholesales 📦, manufacturing ⚙️, services 👷🏼‍♂️, e-commerce 💻, and so on.
 
