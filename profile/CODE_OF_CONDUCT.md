@@ -6,7 +6,6 @@ It covers three main areas: interactions with clients and suppliers, interaction
 
 All members of our organization should be familiar with and adhere to these guidelines. We encourage all members to review this code of conduct regularly and to bring any concerns or issues to management attention.
 
-
 ## 👨‍👩‍👦‍👦 Interactions with clients and suppliers
 
 1. We will always act with empathy towards our clients and suppliers, understanding their needs and working to meet them to the best of our abilities.
@@ -31,4 +30,4 @@ All members of our organization should be familiar with and adhere to these guid
 3. We will always act ethically and with integrity in all of our professional dealings.
 4. We will respect the intellectual property rights of others and not use or disclose confidential information without proper consent.
 
-
+We hope that this code of conduct will serve as a guide for all members of our organization, helping to create a positive and professional environment for everyone. By adhering to these principles, we can work together to achieve our goals while maintaining the highest standards of integrity and ethics. We encourage everyone to read and understand the code of conduct and to bring any questions or concerns to management attention. We are dedicated to creating an environment where everyone feels respected, valued, and safe.
