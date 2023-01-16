@@ -9,7 +9,7 @@ Our process starts by understanding our clients' business needs and then designi
 
 Our goal is to help businesses achieve their full potential through the use of innovative digital solutions. Whether you're a small startup or a large corporation, Foxbith has the expertise to help you take your business to the next level. 💪
 
-## 🚀 Getting Started Your Project with Us
+## 🚀 Getting started your project with us
 
 To get started your projects with us, please contact us to schedule a consultation. During this consultation, we will discuss your business needs and goals and determine the best course of action for your project.
 
@@ -25,7 +25,7 @@ We are proud to share some of our projects with the community. Our projects refl
 - Infrabrik : Modern ERP for digital driven business.
 - Pixel-UI : Foxbith design system.
 
-## 💬 Community Channels
+## 💬 Community channels
 
 We believe in fostering a strong community of users and contributors around our projects. If you're interested in staying up-to-date on our latest developments, or in getting involved and contributing to our projects, we encourage you to check out the following channels:
 
