@@ -38,6 +38,6 @@ We're always on the lookout for talented and passionate individuals to join our 
 
 - [Careers](https://career.foxbith.com) - Our open positions
 - [Company Handbook](https://handbook.foxbith.com) - Discover our values, the team, who we are, how we work, and more!
-- [About us](https://foxbith.com/about) - The Story of Foxbith
+- [About Us](https://foxbith.com/about-us) - The Story of Foxbith
 
 If you don't see a position that fits your skillset but still want to work with us, please submit your resume and portfolio to [admin@foxbith.com](mailto:admin@foxbith.com) and we'll keep it on file for future opportunities.
