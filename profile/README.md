@@ -15,7 +15,7 @@ To get started your projects with us, please contact us to schedule a consultati
 
 If you would like to contact us directly, please use the following:
 - Email: [admin@foxbith.com](mailto:admin@foxbith.com)
-- Website: [foxbith.com](https://foxbith.com/)
+- Website: [foxbith.com](https://www.foxbith.com/)
 
 ## 🌏 The projects we contribute to the world
 
@@ -29,7 +29,7 @@ We are proud to share some of our projects with the community. Our projects refl
 
 We believe in fostering a strong community of users and contributors around our projects. If you're interested in staying up-to-date on our latest developments, or in getting involved and contributing to our projects, we encourage you to check out the following channels:
 
-- [Website](https://foxbith.com/) : Our official website
+- [Website](https://www.foxbith.com/) : Our official website
 - [Medium](https://blog.foxbith.com/) : Discover the showcase, tutorials, our team contribute to.
 
 ## 🤩 We are hiring!!!
@@ -38,6 +38,6 @@ We're always on the lookout for talented and passionate individuals to join our 
 
 - [Careers](https://career.foxbith.com) - Our open positions
 - [Company Handbook](https://handbook.foxbith.com) - Discover our values, the team, who we are, how we work, and more!
-- [About Us](https://foxbith.com/about-us) - The Story of Foxbith
+- [About Us](https://www.foxbith.com/about-us) - The Story of Foxbith
 
 If you don't see a position that fits your skillset but still want to work with us, please submit your resume and portfolio to [admin@foxbith.com](mailto:admin@foxbith.com) and we'll keep it on file for future opportunities.
