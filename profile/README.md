@@ -21,9 +21,8 @@ If you would like to contact us directly, please use the following:
 
 We are proud to share some of our projects with the community. Our projects reflect our commitment to using technology to solve real-world problems and improve businesses efficiency. Below is a list of our current projects and their status.
 
-- [Crft Company](https://crftcompany.com) : Digital marketing kit for business.
-- Infrabrik : Modern ERP for digital driven business.
-- Pixel-UI : Foxbith design system.
+- [Pixel-UI](https://crftcompany.com) : Foxbith design system.
+- Infrabrik : Modern ERP for digital driven businesses.
 
 ## 💬 Community channels
 
