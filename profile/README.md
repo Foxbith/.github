@@ -22,21 +22,19 @@ If you would like to contact us directly, please use the following:
 We are proud to share some of our projects with the community. Our projects reflect our commitment to using technology to solve real-world problems and improve businesses efficiency. Below is a list of our current projects and their status.
 
 - [Pixel-UI](https://www.pixel-ui.com): Foxbith design system.
-- Infrabrik (Beta): Modern ERP for data-driven businesses.
 
 ## 💬 Community channels
 
 We believe in fostering a strong community of users and contributors around our projects. If you're interested in staying up-to-date on our latest developments, or in getting involved and contributing to our projects, we encourage you to check out the following channels:
 
-- [Website](https://www.foxbith.com/): Our official website
+- [LinkedIn](https://www.linkedin.com/company/foxbith/): Join our journey on LinkedIn!
 - [Medium](https://medium.com/foxbith): Discover the showcase, and tutorials, our team contribute to.
 
 ## 🤩 We are hiring!!!
 
 We're always on the lookout for talented and passionate individuals to join our team. If you're interested in working with us, please check out our current job openings at 
 
-- [Careers](https://career.foxbith.com) - Our open positions
-- [Company Handbook](https://handbook.foxbith.com) - Discover our values, the team, who we are, how we work, and more!
+- [Careers](https://www.foxbith.com/careers) - Our open positions
 - [About Us](https://www.foxbith.com/about-us) - The Story of Foxbith
 
 If you don't see a position that fits your skillset but still wants to work with us, please submit your resume and portfolio to [admin@foxbith.com](mailto:admin@foxbith.com) and we'll keep it on file for future opportunities.
